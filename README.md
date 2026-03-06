@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Multithreaded Cyber Port Scanner
 
 About The Project
@@ -26,3 +27,7 @@ python port_scanner.py
  ~Reyabalaveni P
 GitHub: https://github.com/reyabalavenip
 LinkedIn: https://linkedin.com/in/reyabalaveni-p
+=======
+# MultiThreaded-port-scanner
+A fast multi-threaded port scanner built using Python sockets and ThreadPoolExecutor.
+>>>>>>> 6f3afbd6119b3ebaf82f93e06e1d26a1127dea86
