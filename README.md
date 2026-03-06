@@ -18,11 +18,23 @@ Technologies Used
 
 📸 Screenshots
 ![Scanning Output](portscanner.png)
+## ⚙️ How to Run
 
-## 📌 How to Run
-```bash
-python port_scanner.py 
+1️⃣ Clone the repository
 
+git clone https://github.com/reyabalavenip/MultiThreaded-port-scanner.git
+
+2️⃣ Move to project folder
+
+cd MultiThreaded-port-scanner
+
+3️⃣ Install requirements
+
+pip install -r requirements.txt
+
+4️⃣ Run the scanner
+
+python port_scanner.py
 ##Author
  ~Reyabalaveni P
 GitHub: https://github.com/reyabalavenip
